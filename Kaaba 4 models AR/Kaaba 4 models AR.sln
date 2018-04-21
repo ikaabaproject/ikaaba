@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaaba 4 models AR", "Kaaba 4 models AR.csproj", "{F64B19AA-8761-7CE4-6EE8-1AF67D179C1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaaba 4 models AR.Plugins", "Kaaba 4 models AR.Plugins.csproj", "{6FF66DE3-2AE8-E2C2-5A07-F9481AAE68BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaaba 4 models AR.Editor", "Kaaba 4 models AR.Editor.csproj", "{32D99865-E115-7245-7825-EE242CCDBD11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaaba 4 models AR.Editor.Plugins", "Kaaba 4 models AR.Editor.Plugins.csproj", "{724801E7-3277-0A63-EC75-E8A16D0919EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F64B19AA-8761-7CE4-6EE8-1AF67D179C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64B19AA-8761-7CE4-6EE8-1AF67D179C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64B19AA-8761-7CE4-6EE8-1AF67D179C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64B19AA-8761-7CE4-6EE8-1AF67D179C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF66DE3-2AE8-E2C2-5A07-F9481AAE68BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF66DE3-2AE8-E2C2-5A07-F9481AAE68BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF66DE3-2AE8-E2C2-5A07-F9481AAE68BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF66DE3-2AE8-E2C2-5A07-F9481AAE68BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D99865-E115-7245-7825-EE242CCDBD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D99865-E115-7245-7825-EE242CCDBD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D99865-E115-7245-7825-EE242CCDBD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D99865-E115-7245-7825-EE242CCDBD11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{724801E7-3277-0A63-EC75-E8A16D0919EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724801E7-3277-0A63-EC75-E8A16D0919EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724801E7-3277-0A63-EC75-E8A16D0919EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724801E7-3277-0A63-EC75-E8A16D0919EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

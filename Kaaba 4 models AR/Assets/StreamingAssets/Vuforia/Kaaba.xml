@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="Kaaba-model.Front" size="1.000000 1.000000"/>
+        <ImageTarget name="Kaaba-model.Left" size="1.000000 1.000000"/>
+        <ImageTarget name="Kaaba-model.Back" size="1.000000 1.000000"/>
+        <ImageTarget name="Kaaba-model.Right" size="1.000000 1.000000"/>
+        <ImageTarget name="Kaaba-model.Top" size="1.000000 1.000000"/>
+        <MultiTarget name="Kaaba-model">
+            <Part name="Kaaba-model.Left" translation="-0.5 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="Kaaba-model.Right" translation="0.5 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="Kaaba-model.Front" translation="0 0 0.5" rotation="AD: 1 0 0 0"/>
+            <Part name="Kaaba-model.Back" translation="0 0 -0.5" rotation="AD: 0 1 0 180"/>
+            <Part name="Kaaba-model.Top" translation="0 0.5 0" rotation="AD: 1 0 0 -90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Upwork-seahorse-marker8" size="1.000000 1.000000" />
+    <ImageTarget name="Upwork-seahorse-marker7" size="1.000000 1.000000" />
+    <ImageTarget name="Upwork-seahorse-marker6" size="1.000000 1.000000" />
+    <ImageTarget name="Upwork-seahorse-marker5" size="1.000000 1.000000" />
+    <ImageTarget name="Upwork-seahorse-marker3" size="1.000000 1.000000" />
+    <ImageTarget name="Upwork-seahorse-marker" size="1.000000 1.000000" />
+    <ImageTarget name="20171216_221853" size="10.000000 5.786133" />
+  </Tracking>
+</QCARConfig>

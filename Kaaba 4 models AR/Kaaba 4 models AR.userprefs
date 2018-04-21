@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ViewManagar.cs">
+    <Files>
+      <File FileName="Assets\Scripts\EveryplayRecorder.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\Android\everyplay\AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ViewManagar.cs" Line="10" Column="29" />
+      <File FileName="Assets\Scripts\FrameRateSettings.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraSettings.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
