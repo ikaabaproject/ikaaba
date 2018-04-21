@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 987a7930117e59d40ae0e6f63abf3b52
+timeCreated: 1512214343
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arc
+    100002: Baclkstone
+    100004: Base
+    100006: BlackStone
+    100008: Camera
+    100010: Floor
+    100012: Gold
+    100014: //RootNode
+    100016: Kaaba
+    100018: Kaaba_2
+    100020: Kaaba_Base
+    100022: Makam
+    100024: Silver
+    100026: Silver_MeshPart0
+    100028: Silver_MeshPart1
+    400000: Arc
+    400002: Baclkstone
+    400004: Base
+    400006: BlackStone
+    400008: Camera
+    400010: Floor
+    400012: Gold
+    400014: //RootNode
+    400016: Kaaba
+    400018: Kaaba_2
+    400020: Kaaba_Base
+    400022: Makam
+    400024: Silver
+    400026: Silver_MeshPart0
+    400028: Silver_MeshPart1
+    2000000: Camera
+    2100000: Gold
+    2100002: Base
+    2100004: Arc
+    2100006: Kaaba
+    2100008: Kaaba Base
+    2100010: Blackstone
+    2100012: Silver
+    2100014: White
+    2300000: Arc
+    2300002: Baclkstone
+    2300004: Base
+    2300006: Floor
+    2300008: Gold
+    2300010: Kaaba_2
+    2300012: Kaaba_Base
+    2300014: Silver_MeshPart0
+    2300016: Silver_MeshPart1
+    3300000: Arc
+    3300002: Baclkstone
+    3300004: Base
+    3300006: Floor
+    3300008: Gold
+    3300010: Kaaba_2
+    3300012: Kaaba_Base
+    3300014: Silver_MeshPart0
+    3300016: Silver_MeshPart1
+    4300000: Gold
+    4300002: Base
+    4300004: Arc
+    4300006: Kaaba_2
+    4300008: Kaaba_Base
+    4300010: Baclkstone
+    4300012: Silver_MeshPart0
+    4300014: Silver_MeshPart1
+    4300016: Floor
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
